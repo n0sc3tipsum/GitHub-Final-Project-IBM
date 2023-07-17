@@ -10,7 +10,7 @@
 
 # Additional Authors:
 
-# <your GitHub username>
+# <n0sc3tipsum>
 
 # Input:
 
